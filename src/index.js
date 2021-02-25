@@ -3,11 +3,25 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {createStore, combineReducers} from 'redux'; // Import redux functions
+// Import redux reducers
+import {arrReducer, favArrReducer, tempoArrReducer, searchValueReducer} from "./redux/reducers";
+import {Provider} from 'react-redux'; // Importing the redux Provider component
 
+const store = createStore(combineReducers({ // Creacting the store
+  arr: arrReducer,
+  favArr: favArrReducer, 
+  tempoArr: tempoArrReducer,
+  searchValue: searchValueReducer,
+})) // Multi reducer nested in single reducer
+
+// Wraps the Provider component around the React component
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Provider store={store}>
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  </Provider>,
   document.getElementById('root')
 );
 

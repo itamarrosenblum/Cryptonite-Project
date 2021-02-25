@@ -1,0 +1,19 @@
+footer {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 70px 0;
+    background-color: #2D3436;
+}
+
+footer p { 
+    text-transform: uppercase;
+    font-size: 85%;
+    color: #fff;
+ }
+/* Media queries */
+@media only screen and (max-width: 480px) {
+    footer { padding: 40px 0;}
+}
