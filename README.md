@@ -26,3 +26,5 @@
 <img src="https://im4.ezgif.com/tmp/ezgif-4-9fd45d0ec1b8.gif" alt="Cryptonite project">
 
 <img src="https://im4.ezgif.com/tmp/ezgif-4-84c55f9e5770.gif" alt="Cryptonite project">
+
+<img src="https://im4.ezgif.com/tmp/ezgif-4-039709531e25.gif" alt="Cryptonite project">
