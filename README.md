@@ -19,12 +19,12 @@
 - <a href="https://www.coingecko.com/en/api#/">coinGecko</a>
 
 ## Demonstration 🤹‍♂️
-<img src="https://im4.ezgif.com/tmp/ezgif-4-da9131429ce2.gif" alt="Cryptonite project">
+<img src="https://s4.gifyu.com/images/ezgif-3-e09a426e1f1f.gif" alt="Cryptonite project">
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-bbb13da6d6bd.gif" alt="Cryptonite project">
+<img src="https://s4.gifyu.com/images/ezgif-3-3e83a4b6e1c3.gif" alt="Cryptonite project">
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-9fd45d0ec1b8.gif" alt="Cryptonite project">
+<img src="https://s4.gifyu.com/images/ezgif-3-31c128d0b4a7.gif" alt="Cryptonite project">
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-84c55f9e5770.gif" alt="Cryptonite project">
+<img src="https://s4.gifyu.com/images/ezgif-3-13e045a6a0ae.gif" alt="Cryptonite project">
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-039709531e25.gif" alt="Cryptonite project">
+<img src="https://s4.gifyu.com/images/ezgif-3-826e000b87f7.gif" alt="Cryptonite project">
