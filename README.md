@@ -10,8 +10,8 @@
 ## Description 📝
 - View real-time prices of cryptocurrencies.
 - Save up to 5 cryptocurrencies to a report list.
-- Search for their favorite cryptocurrencies.
-- Manage (add/remove) their favorite cryptocurrencies (report list).
+- Search your favorite cryptocurrencies.
+- Manage (add/remove) your favorite cryptocurrencies (report list).
 
 ## 3rd Party API Integration
 #### Integrated 3rd party API for live pricing and coins idatnformation
